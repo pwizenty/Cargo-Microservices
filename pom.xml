@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>master-seminar</groupId>
+    <artifactId>cargo</artifactId>
+    <packaging>pom</packaging>
+    <version>1</version>
+
+    <modules>
+        <module>eurekaserver</module>
+        <module>usermanagementservice</module>
+        <module>gatewayservice</module>
+        <module>resourceservice</module>
+        <module>authenticationservice</module>
+    <module>locationService</module>
+    <module>cargoService</module>
+    <module>Customer</module>
+    <module>customerService</module>
+  </modules>
+</project>
